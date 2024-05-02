@@ -1,0 +1,13 @@
+b4731082920b560d958d4e4952bd9278 *DESCRIPTION
+9d560785bcacd7fa22d761642b2a36d5 *LICENSE
+dfefbc8547712744db779b4ca61b528a *NAMESPACE
+ad5ea6a8b68b7cfcf13623c2168aef3a *R/fisher.reg.R
+e40b4df2b7a4bd3dae50481f943c6c94 *R/reg.model.R
+c2d88cd4eae191fea699ae79eee125ae *data/DebTrivedi.RData
+7d07720f66c1885adbed0800a6f4caa8 *man/DebTrivedi.Rd
+cdf7d1751730f8d4f652e150f4a10f66 *man/fisher.reg.Rd
+3282af0c429435573ec84f4c4f09bfa8 *man/reg.model.Rd
+dad7bfe22914a82111c56422b7106e51 *tests/testthat.R
+225e3812b897786befc574f805c96dc2 *tests/testthat/test-RAZIAD.R
+225e3812b897786befc574f805c96dc2 *tests/testthat/test-fisher.reg.R
+225e3812b897786befc574f805c96dc2 *tests/testthat/test-reg.model.R
